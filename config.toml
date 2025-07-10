@@ -1,5 +1,5 @@
 # Change the default theme to be use when building the site with Hugo
-baseURL = "https://yendinh2003.github.io/vi/S3-Upload-FJC/"
+baseURL = "https://yendinh2003.github.io/S3-Upload-FJC/"
 theme = "hugo-theme-learn"
 
 # For search functionality
